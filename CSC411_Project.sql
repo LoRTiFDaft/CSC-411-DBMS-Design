@@ -46,8 +46,7 @@ INSERT INTO `brands` (`id`, `Name`, `CompayOwned`) VALUES
 (5, 'Honda', 1),
 (6, 'Tesla', 1),
 (7, 'Toyota', 1),
-(8, 'Nissan', 1),
-(9, 'Honda', 1);
+(8, 'Nissan', 1);
 
 -- --------------------------------------------------------
 
@@ -184,11 +183,7 @@ INSERT INTO `models` (`id`, `Name`, `BrandId`) VALUES
 (63, 'Rogue', 8),
 (64, 'Titan', 8),
 (65, 'Altima', 8),
-(66, 'Maxima', 8),
-(67, 'CR-V', 9),
-(68, 'Accord', 9),
-(69, 'HR-V', 9),
-(70, 'Civic', 9);
+(66, 'Maxima', 8);
 
 
 
